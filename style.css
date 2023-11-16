@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+header, nav {
+    text-align: center;
+}
+
+.logo {
+    width: 200px;
+}
+
+.titolo {
+    color: lime;
+}
+
+.pulsanti {
+    background-color: lime;
+    padding: 1%;
+}
+
+h2 {
+    display: inline-block;
+}
+
+main {
+    color: white;
+}
+
+.gino22 {
+    width: 350px;
+    height: 25px;
+    background: orange;
+    border-radius: 5px;
+}
+
+.mike24 {
+    width: 600px;
+    height: 25px;
+    background: lime;
+    border-radius: 5px;
+}
+
+.fede154 {
+    width: 125px;
+    height: 25px;
+    background: red;
+    border-radius: 5px;
+}
+
+.centro, .pulsanti {
+    width: 1000px;
+    margin: auto;
+}
+
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.sfocatura {
+    background-color: rgba(0, 0, 0, 0.447);
+    margin-top: 3%;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 20px;
+}
